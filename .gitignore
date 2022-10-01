@@ -1,0 +1,5 @@
+# .gitignore file, any files/directories listed in here will not be sent with a git push dbcreds is mandatory in here to keep sensitive code safe
+
+.vscode/
+venv/
+dbcreds.py
